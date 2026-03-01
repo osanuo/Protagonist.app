@@ -1,230 +1,230 @@
 ---
 layout: page
-title: Privacy Policy
+title: Terms of Service
 include_in_header: false
 ---
 
-# Privacy Policy for Protagonist
+# Terms of Service for Protagonist
 
 **Last Updated: March 1, 2026**
 
-## Introduction
+## Agreement to Terms
 
-Protagonist ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use the Protagonist mobile application (the "App").
+By downloading, installing, or using the Protagonist mobile application (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 **Developer**: Dawid (Osanuo)  
 **Location**: Warsaw, Poland  
 **Contact**: osanuo.studio@gmail.com
 
----
+## Description of Service
 
-## Information We Collect
+Protagonist is a life journaling application for iOS devices that helps users:
 
-### Data Stored Locally on Your Device
+- Log daily life as Episodes with titles, descriptions, mood ratings, and tags
+- Organise life into Seasons (years) and build a structured archive
+- Track mood trends, streaks, and personal statistics
+- Generate Season Wrapped recaps at the end of each season
+- Export episodes as cinematic share cards or full season recaps
+- Export data as PDF season books, CSV, or JSON backups
+- Optionally sync data across devices via iCloud
 
-Protagonist stores the following information locally on your iOS device:
-
-- **Episode Information**: Titles, descriptions, mood ratings, tags, and dates of episodes you create
-- **Season Data**: Your life seasons (years) and their associated episodes and themes
-- **Mood & Streak Data**: Mood history, streak counts, and historical tracking data
-- **User Preferences**: App settings, notification preferences, season themes, and customization choices
-- **Statistics**: Calculated analytics about your mood patterns, streaks, and episode history
-- **Share Cards**: Any share card designs you create within the App
-
-### Data We Do NOT Collect
-
-We want to be clear about what we don't collect:
-
-- We do NOT collect your personal information (name, email, phone number)
-- We do NOT track your location
-- We do NOT access your contacts
-- We do NOT collect device identifiers for tracking purposes
-- We do NOT send your data to external servers
-- We do NOT use analytics or tracking services
-- We do NOT share your data with third parties
-- We do NOT use cookies or similar tracking technologies
-
----
-
-## How We Use Your Information
-
-All data collected by Protagonist is used solely to:
-
-- Display your episodes and seasons
-- Calculate and show your mood trends and streaks
-- Send you notifications/reminders (only if you enable them)
-- Provide statistics and insights about your life story
-- Generate Season Wrapped recaps
-- Sync data across your Apple devices via iCloud (if you enable iCloud sync)
-
----
-
-## Legal Basis for Processing (GDPR)
-
-Since all data processing happens locally on your device under your direct control, we process your data based on:
-
-- **Consent**: You voluntarily choose to create episodes and enter data
-- **Contractual Necessity**: To provide the App's core functionality you requested
-- **Legitimate Interests**: To enable core features like streak tracking, mood analytics, and Season Wrapped
-
----
-
-## Data Storage and Security
-
-### Local Storage
-
-All your data is stored locally on your device using:
-
-- **iOS Secure Storage**: We use Apple's secure storage mechanisms (SwiftData/Core Data)
-- **Encryption**: Your data is protected by iOS's built-in encryption when your device is locked
-- **No Cloud Servers**: We do not maintain any servers that store your personal data
-
-### iCloud Sync
-
-If you choose to enable iCloud sync:
-
-- Your episode and season data is synced across your Apple devices using your personal iCloud account
-- This data is encrypted and stored in your private iCloud storage
-- We cannot access your iCloud data
-- This is entirely managed by Apple and subject to Apple's Privacy Policy
-- You can disable iCloud sync at any time in the App settings
-
----
-
-## Third-Party Services
-
-Protagonist does not use any third-party analytics, advertising, or tracking services.
-
-If you purchase a subscription or lifetime access through the App Store:
-
-- Payment is processed entirely by Apple
-- We do not collect or store your payment information
-- Your purchase is subject to Apple's Privacy Policy
-
----
-
-## Children's Privacy
-
-Protagonist does not knowingly collect personal information from children.
+## Eligibility
 
 ### Age Requirements
+
+You must meet the minimum age requirement for your region:
 
 - **European Union**: You must be at least 16 years old (or the minimum age required in your country under local law)
 - **Other regions**: You must be at least 13 years old
 
-If you are under the required age for your region, please do not use this App. If we learn that we have inadvertently collected information from a child under the required age, we will delete that information immediately.
+If you are under 18 years of age, you must have permission from a parent or legal guardian to use the App.
 
----
+### Capacity to Agree
 
-## Your Rights and Choices
+By using the App, you represent and warrant that:
+- You meet the age requirement for your region
+- You have the legal capacity to enter into a binding contract
+- You have the right, authority, and capacity to enter into these Terms
+- You will use the App in compliance with these Terms and all applicable laws
 
-You have complete control over your data:
+## License to Use
 
-### Access Your Data
-All your data is visible within the App at all times. There are no hidden databases or external storage.
+### Grant of License
 
-### Delete Your Data
-You can delete your data at any time by:
+Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to:
 
-- Deleting individual episodes within the App
-- Deleting entire seasons within the App
-- Using the "Delete All Data" option in Settings
-- Deleting the App from your device (this permanently removes all local data)
+- Download and install the App on your iOS device(s)
+- Use the App for your personal, non-commercial purposes
+- Access and use the App's features and functionality
 
-### Export Your Data
-You can export your episode data from the App's Settings menu as a PDF season book, CSV, or JSON backup.
+### Restrictions
 
-### Disable Notifications
-You can turn off notifications at any time in:
+You agree NOT to:
 
-- The App's Settings
-- Your device's Settings → Notifications → Protagonist
+- Copy, modify, adapt, or create derivative works of the App
+- Reverse engineer, decompile, disassemble, or attempt to discover the source code
+- Remove, alter, or obscure any copyright, trademark, or other proprietary notices
+- Use the App for any illegal, unauthorized, or commercial purpose
+- Attempt to gain unauthorized access to any portion of the App or its systems
+- Use the App in any way that could damage, disable, overburden, or impair the App
+- Resell, rent, lease, sublicense, or distribute the App
+- Use the App to violate any applicable laws or regulations
 
-### Hidden Episodes
-Episodes marked as hidden remain private and are excluded from lists and shared recaps.
+## User-Generated Content
 
-### Disable iCloud Sync
-You can disable iCloud synchronization at any time in the App's Settings.
+### Your Data
 
----
+You retain all ownership rights to the episodes, seasons, mood data, notes, and other content you create in the App ("User Content").
 
-## GDPR Compliance (European Economic Area Users)
+By using the App, you grant us a limited license to:
+- Store your User Content locally on your device
+- Sync your User Content via iCloud (if you enable this feature)
+- Process your User Content to provide App functionality (calculate streaks, mood trends, Season Wrapped, etc.)
 
-If you are located in the European Economic Area (EEA), United Kingdom, or Switzerland, you have enhanced data protection rights under the General Data Protection Regulation (GDPR) and equivalent laws.
+This license is:
+- Non-exclusive (you can use your data elsewhere)
+- Limited to providing App functionality
+- Revocable (by deleting the App or your data)
 
-### Your GDPR Rights
+### Responsibility for Your Content
 
-- **Right of Access**: You can view all your data within the App at any time
-- **Right to Rectification**: You can edit your episodes and data at any time through the App interface
-- **Right to Erasure** ("Right to be Forgotten"): You can delete your data at any time using the in-app deletion features
-- **Right to Data Portability**: You can export your data in standard formats (PDF, CSV, JSON)
-- **Right to Object**: You can choose not to enable optional features like notifications or iCloud sync
-- **Right to Restrict Processing**: You can limit how your data is used by disabling specific features
-- **Right to Withdraw Consent**: You can disable any optional features at any time without affecting core functionality
+You are solely responsible for:
+- The accuracy, legality, and appropriateness of your User Content
+- Backing up your data (we recommend using the export feature regularly)
+- Any consequences of sharing your episodes or season recaps with others
+- Any loss of your data
 
-### Exercising Your Rights
+We are not responsible for:
+- Loss of data due to device failure, App deletion, iOS updates, or other causes
+- Backing up your data on our behalf
+- Recovering deleted episodes or seasons
+- The content of your User Content
 
-Since all data is stored locally on your device:
+## Subscriptions and Payments
 
-- Most rights can be exercised directly through the App
-- For additional assistance, contact us at osanuo.studio@gmail.com
-- We will respond to your request within 30 days as required by GDPR
+### In-App Purchases
 
-### Data Protection Authority
+Protagonist offers optional premium features ("Director's Cut") through in-app purchases:
 
-If you are in the EEA, you have the right to lodge a complaint with your local data protection authority. For Poland, this is:
+- **Free Features**: Core episode logging and season tracking is available for free
+- **Director's Cut**: Advanced features including All Past Seasons, Deep Stats, Season Themes, Premium Share Cards, Smart Reminders, Export, and Hidden Episodes
+- **Pricing**: Monthly ($3.99), Annual ($24.99), or Lifetime ($59.99) — current prices are displayed in the App and App Store
+- **Currency**: Prices are shown in your local currency
 
-**Urząd Ochrony Danych Osobowych (UODO)**  
-Website: https://uodo.gov.pl
+### Billing and Payment Processing
 
-### Data Protection Officer
+- All purchases are processed through Apple's App Store
+- Billing is handled entirely by Apple Inc.
+- You are subject to Apple's payment terms and policies
+- We do not collect, process, or store your payment information
+- Payment disputes should be directed to Apple Support
 
-**Email**: osanuo.studio@gmail.com  
-**Response Time**: Within 30 days
+### Subscriptions
 
----
+If you purchase a monthly or annual subscription:
 
-## Data Retention
+- **Auto-Renewal**: Subscriptions automatically renew at the end of each billing period unless cancelled
+- **Cancellation**: You can cancel anytime through your App Store account settings (Settings → [Your Name] → Subscriptions)
+- **Cancellation Effect**: Cancellation takes effect at the end of the current billing period
+- **No Partial Refunds**: Cancelling does not provide a refund for the current billing period
+- **Price Changes**: We reserve the right to change subscription pricing with at least 30 days' notice
 
-- **Active Use**: We retain your data locally on your device for as long as you use the App
-- **App Deletion**: All local data is permanently deleted when you delete the App from your device
-- **iCloud Data**: If you use iCloud sync, data remains in your iCloud until you delete it manually or disable iCloud sync
-- **No Server Retention**: We do not store any of your data on our servers
+### Lifetime Purchase
 
----
+The Lifetime option is a one-time non-consumable purchase that provides permanent access to Director's Cut features for the current App version.
 
-## Data Security
+### Free Trials
 
-We take reasonable measures to protect your data:
+If we offer a free trial period:
 
-- All data stored locally is protected by iOS security features
-- Your device passcode/biometrics (Face ID/Touch ID) protect access to the App
-- We do not transmit your personal data over the internet (except for optional iCloud sync, which uses Apple's encrypted channels)
-- We do not store your data on our servers
+- You must cancel before the trial period ends to avoid being charged
+- Only one free trial per user/account
+- Trial availability may vary by region
 
-However, no method of electronic storage is 100% secure, and we cannot guarantee absolute security. You are responsible for keeping your device secure, using a strong device passcode, and protecting your Apple ID credentials.
+### Refunds
 
----
+Refund requests should be directed to Apple, as they process all payments:
 
-## International Data Transfers
+- Contact Apple Support for refund requests
+- Refunds are subject to Apple's refund policy
+- We cannot process refunds directly
 
-Protagonist is available worldwide. Your data is stored locally on your device, regardless of your location.
+## European Union Consumer Rights
 
-If you use iCloud sync, your data may be transferred to Apple's iCloud servers in various countries. Data transfers are protected by Apple's security measures and subject to Apple's Privacy Policy. For EEA users, Apple complies with GDPR requirements for international data transfers.
+If you are located in the European Union, you have additional rights under EU consumer protection law:
 
----
+### Right of Withdrawal (14-Day Cooling-Off Period)
 
-## California Privacy Rights (CCPA)
+For digital content purchases (including subscriptions), you have the right to withdraw from your purchase within 14 days from the date of purchase, UNLESS you have already started using the premium features and explicitly agreed to immediate access.
 
-If you are a California resident, since Protagonist does not collect, sell, or share personal information with third parties, most CCPA provisions do not apply. You still have the right to access your data, delete your data, and opt-out of data sale (we never sell data).
+### Refunds for EU Consumers
 
----
+EU consumers may be entitled to refunds under EU consumer protection law. To request a refund, contact Apple Support first. If unresolved, contact us at osanuo.studio@gmail.com or use the EU Online Dispute Resolution platform.
 
-## Changes to This Privacy Policy
+### Mandatory Consumer Rights
 
-We may update this Privacy Policy from time to time. We will notify you by posting the new policy on this page, updating the "Last Updated" date, and notifying you within the App for significant changes.
+Nothing in these Terms affects your mandatory consumer rights under EU law.
 
----
+## Privacy and Data Protection
+
+Your privacy is important to us. Our Privacy Policy explains what data we collect, how we use it, and your rights.
+
+**Please review our Privacy Policy at**: https://osanuo.github.io/Protagonist.app/privacypolicy/
+
+The Privacy Policy is incorporated into these Terms by reference.
+
+## Intellectual Property
+
+The App, including all content, features, functionality, design, text, graphics, logos, and the "Protagonist" name and branding, is owned by us and protected by international copyright, trademark, and other intellectual property laws. You may not use our trademarks without our prior written permission.
+
+### Feedback
+
+If you provide feedback or suggestions about the App, we may use your feedback without any obligation to you. We grant no compensation for feedback provided.
+
+## Disclaimers and Limitations of Liability
+
+### "As Is" Basis
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR UNINTERRUPTED OPERATION.
+
+### Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, ARISING FROM YOUR USE OR INABILITY TO USE THE APP.
+
+**For EU Users**: This limitation does not apply to death or personal injury caused by our negligence, fraud, or any liability that cannot be excluded under EU consumer protection law.
+
+**Maximum Liability**: To the extent permitted by law, our total liability shall not exceed the greater of: (a) the amount you paid us in the 12 months before the claim, or (b) €100.
+
+### Data Loss
+
+We strongly recommend regularly exporting your data using the built-in PDF, CSV, or JSON export features. We are not responsible for data loss from any cause.
+
+## Changes to the App and Terms
+
+We reserve the right to modify, update, or discontinue the App or these Terms at any time. We will notify you of material changes through the App. Continued use after changes constitutes acceptance. EU users will receive 30 days' notice for material changes.
+
+## Termination
+
+You may stop using the App at any time by deleting it from your device and cancelling any active subscriptions. We may terminate your access if you violate these Terms. Upon termination, your license ends immediately.
+
+## Dispute Resolution
+
+### Governing Law
+
+These Terms are governed by the laws of Poland and applicable EU regulations. EU consumer protection law prevails in case of conflict.
+
+### Jurisdiction
+
+EU users may bring proceedings in their country of residence or in Poland. Non-EU users submit to the exclusive jurisdiction of courts in Warsaw, Poland.
+
+### EU Online Dispute Resolution
+
+EU consumers may use the European Commission's ODR platform:  
+**https://ec.europa.eu/consumers/odr**
+
+## Third-Party Services
+
+The App is distributed through Apple's App Store. Apple is a third-party beneficiary of these Terms. These Terms are between you and us, not Apple. Apple has no obligation to provide support for the App.
 
 ## Contact Us
 
@@ -234,17 +234,7 @@ We may update this Privacy Policy from time to time. We will notify you by posti
 **GitHub**: https://github.com/osanuo  
 **Website**: https://osanuo.github.io/Protagonist.app/
 
-We will respond within 30 days (EU/EEA users as required by GDPR).
-
-### Supervisory Authority (EU Users)
-
-**Urząd Ochrony Danych Osobowych (UODO)**  
-ul. Stawki 2, 00-193 Warsaw, Poland  
-Phone: +48 22 531 03 00  
-Website: https://uodo.gov.pl  
-Email: kancelaria@uodo.gov.pl
-
-For other EU countries: https://edpb.europa.eu/about-edpb/board/members_en
+We will respond to inquiries within 30 days.
 
 ---
 
@@ -252,17 +242,17 @@ For other EU countries: https://edpb.europa.eu/about-edpb/board/members_en
 
 **In Plain English:**
 
-- ✅ Your episodes and seasons stay on your device (local storage only)
-- ✅ We don't collect personal information
-- ✅ We don't use trackers, analytics, or cookies
-- ✅ You can delete your data anytime
-- ✅ Optional iCloud sync uses your private iCloud
-- ✅ No ads, no sharing, no selling of data
-- ✅ Full GDPR compliance for EU users
-- ✅ You have complete control over your story
+- ✅ Use Protagonist to journal your life as episodes and seasons (16+ in EU, 13+ elsewhere)
+- ✅ You own all your episodes and data
+- ✅ Director's Cut subscriptions renew automatically unless cancelled
+- ✅ Lifetime purchase gives permanent access to premium features
+- ✅ EU users have 14-day withdrawal rights (with conditions)
+- ✅ The App is provided "as is" — please export your data regularly
+- ✅ EU users have additional consumer protection rights
+- ✅ Contact us with any questions or concerns
 
-**We built Protagonist to respect your privacy. Your life story is yours alone.**
+**By using Protagonist, you agree to these Terms. If you don't agree, please don't use the App.**
 
 ---
 
-*This Privacy Policy is effective as of March 1, 2026 and complies with GDPR, CCPA, and applicable EU consumer protection laws.*
+*These Terms of Service are effective as of March 1, 2026 and comply with Polish law, EU regulations, and applicable consumer protection laws.*
