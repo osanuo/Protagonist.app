@@ -5,86 +5,78 @@ include_in_header: true
 ---
 
 ### `Latest`
-Version 1.0 Release Notes
-Welcome to Ri – Your Second Brain 🎉
-Version 1.0 – January 30, 2026
+# Version 1.0 Release Notes
+## Welcome to Protagonist – Your Life Show 🎬
+**Version 1.0 – March 2026**
 
-We're thrilled to introduce Ri, your all-in-one life management system designed to help you become the hero of your own story.
+We're thrilled to introduce Protagonist — a cinematic journaling app that turns your daily life into a TV show worth watching.
 
+---
 
-WHAT'S INCLUDED IN VERSION 1.0:
+### 🎬 Episode Logging
+- Log each day as an Episode with a title, description, and mood
+- Rate your mood with expressive faces
+- Add tags to your episodes
+- Star the moments worth remembering
+- Mark episodes as hidden to keep private moments out of view
 
+### 📺 Seasons
+- Your life organises into Seasons (years) automatically
+- Browse every episode by month within each season
+- Customise each season with a unique colour theme
 
-📊 Goals Management
+### 🎉 Season Wrapped
+- At the close of every Season, swipe through a stunning animated recap
+- See your total episodes, mood journey, highlight reel, and best moments
+- Brought together like a real season finale
 
-Create and track personal and professional goals
-Set start and end dates
-Monitor progress with visual indicators
-Prioritize what matters most
+### 📊 Stats That Tell Your Story
+- Total episodes logged and current streak
+- Your personal best streak
+- Mood heatmap — your entire year mapped day by day
+- 30-day mood trend chart and monthly mood averages
+- Best day, toughest day, and full streak history
+- Word cloud of your most-written themes
 
-✅ Task Management
+### 🎴 Share Your Moments
+- Export episodes as cinematic share cards
+- Four styles: Ticket, Clean, Minimal, and Retro Film
+- Share a full Season Recap with mood breakdown and highlights
+- Copy, save to Photos, or share anywhere
 
-Comprehensive to-do lists
-Priority management
-Progress tracking
-Quick task completion
+### 🎟️ Director's Cut (Premium)
+Unlock the full story of your life:
+- **All Past Seasons** — never lose a chapter
+- **Deep Stats** — heatmap, mood trends, streak history & word cloud
+- **Season Themes** — personalise your colour palette each year
+- **Premium Share Cards** — Minimal, Retro Film & more styles
+- **Smart Reminders** — daily prompts & streak-rescue at 9pm
+- **Export** — PDF season book, CSV & JSON data backup
+- **Hidden Episodes** — keep private moments out of view
 
-🔥 Habit Tracking
+Choose monthly, annual, or a one-time lifetime purchase.
 
-Daily habit check-ins
-Beautiful streak visualization
-Weekly, monthly, and yearly views
-Build lasting positive habits
+### 🔒 Core Features
+- Beautiful dark cinematic interface
+- Offline functionality — no internet required
+- Optional iCloud sync across all your Apple devices
+- No account required. No ads. No tracking.
+- Your data stays on your device
 
-💰 Budget Tracking
+---
 
-Income and expense tracking
-Subscription and recurring payment management
-Automatic calculations for available funds
-Savings goal planning
+### COMING SOON
+- iPad support
+- Widgets
+- More share card styles
+- More languages
 
-🎯 Hobby & Interest Lists
+---
 
-Custom lists for any hobby or interest
-Reading lists, travel bucket lists, movie watchlists
-Never forget what brings you joy
+### YOUR FEEDBACK MATTERS
 
-🍽️ Meal Planning
+Protagonist is built for you. If you have suggestions, feature requests, or encounter any issues, please reach out at **osanuo.studio@gmail.com**
 
-Weekly meal planner
-Recipe storage and management
-Automatic shopping list generation
-Healthy eating made effortless
-
-💪 Fitness Tracking
-
-Workout and sports activity logging
-Daily check-ins for consistency
-Streak tracking for motivation
-Visual progress monitoring
-
-📝 Daily Journal
-
-Quick daily entries
-Reflect and build self-awareness
-Track personal growth over time
-
-🎨 CORE FEATURES:
-
-Beautiful, intuitive interface
-Dark mode support
-Offline functionality
-Optional iCloud sync across devices
-Privacy-first: your data stays on your device
-No tracking, no analytics, no ads
-
-COMING SOON:
-
-Smart reminders and notifications
-More languages
-
-YOUR FEEDBACK MATTERS
-Ri is built for you. If you have suggestions, feature requests, or encounter any issues, please reach out to us at osanuo.studio@gmail.com
-Thank you for joining us on this journey. Here's to becoming the hero of your own story! 🦸‍♂️
+Thank you for making Protagonist part of your story. You are the main character. 🎬
 
 <br>
